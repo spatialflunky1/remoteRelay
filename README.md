@@ -6,6 +6,7 @@ A web/desktop/mobile app to control a relay on a raspberry pi
 
 ## So far:
 - [x] Get the relay to work
+- [x] Create a template for using the relay with the application 
 - [ ] Find something to run the website on (like apache or flask)
 - [ ] Create web app
 - [ ] Find out how to make an app for iPhone/Android
